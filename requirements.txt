@@ -1,0 +1,4 @@
+requests
+scapy
+colorama
+reportlab  # For PDF export (optional)
